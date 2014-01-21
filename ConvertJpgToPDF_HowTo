@@ -1,0 +1,12 @@
+sudo apt-get install imagemagick
+
+/media/jon/80152812952/Jon\ Nyman\ KE7WYY/Journal/Ancestor\ Journals/Ransom\ Marion\ Tone/RansomMarionTone_1939-1940
+
+convert *.jpg pictures.pdf
+
+LQ
+convert -quality 25 -resize 50% *.jpg -adjoin output.pdf
+
+combine pdfs
+
+pdftk *.pdf cat output mergedfile.pdf

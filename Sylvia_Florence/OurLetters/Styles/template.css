@@ -1,0 +1,36 @@
+@charset "UTF-8";
+p.caption {text-align:center;font-style: italic; font-size: small;}
+div.figure {text-align:center; }
+p {font-size:medium;}
+pre.poem {text-align:left; font-size:medium;}
+sup {
+	font-size:55%;
+}
+blockquote {font-size:small;}
+/*superUnderline - changed for easy markdown writing*/
+sup em {
+	font-size:55%;
+	text-decoration: underline;
+	vertical-align: super;
+	font-style: normal;
+	font-weight: normal;
+}
+/*underline changed for easy markdown writing*/
+em {
+	text-decoration: underline;
+	font-style: normal;
+	font-weight: normal;
+}
+h1.title {text-align: center;}
+h2.author {text-align: center;}
+h3.date {text-align: center;}
+h6 {
+	text-align: right;
+	font-weight: normal;
+}
+.fauxUnderline {
+   border-bottom: 1px solid black;  
+   display: inline;
+}
+.remembrance{font-style:italic;}
+
