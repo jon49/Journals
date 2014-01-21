@@ -272,695 +272,695 @@ A good father is one reasonably assured and satisfied that his kids are the huck
 
 It's something like your mother's brushing off my dandruff and straightening my tie as she would let me out of the car at the office where, barehanded I was to meet our belligerent stockholders and their attorneys and, for the sake of a by-gone hope, search yet some more for a semblance of loyalty among those too much and unwisely trusted directors. Mom was trying her best to help. At worst I looked my best for the occasion. I was never so sure of myself as not to be interested in mom's opinions and ideas. For just a mere woman she knows a lot. She helped me discover the almighty truth and sense of some of these things I'm setting down here before I drive on. It does seem, though, a little like just brushing off the dandruff or telling you to wear your overcoat when you need it:
 
-1. Remembering your solemn pledge to your father never to do so, do not under any circumstances sign another man's note
-#. Avoid any company or partnership not incorporated
-#. Never employ an attorney of mediocre abilities
-#. Beware the competitor's attorney
-#. Do not expect to find honest and intelligent lawyers on every street. There are many, of course, to be found, but you should live so long
-#. Trust very few men 100%
-#. Except in extreme cases never go into a partnership without control
-#. If it is you they want rather than your money say "no"
-#. Do not over insure your life, $10,000 is enough except for business purposes
-#. Analyze critically but do not be afraid to take chances
-#. Listen attentively to your hunches
-#. Quickly forget your losses and unpleasantness of the past that is not useful to you
-#. Avoid all debt, except on real estate, until you have $10,000
-#. After that do not go into debt in excess of 1/4 of your worth
-#. Do not take money from one project to bolster another. Make each do its stuff or get rid of it
-#. Never fleece a man because he is stupid. Natural shifting values and demands will make you rich if men trust you and you know your way around
-#. You make your profit on the buying price, seldom on the selling
-#. It is sometimes OK to be pretty stubborn, provided it doesn't cost anything
-#. If your neighbors seem always to be good you are a right guy yourself
-#. Be generous, never tight. Sane spending and giving comes back like hairy vetch, it also helps you to stay young
-#. According to your position, income and circumstances spend all it takes to live well and to enjoy living to the fullest. Dress well. Keep a good home, set a good table and see that many friends come. You will need them
-#. A man is dead, half dead, or alive according to the number and quality of his friends. Yet only a few in a life time are to be fully trusted. They make mistakes too, you know
-#. You've got to like folks to make them like you. Set about it honestly, naturally. Make it an art. It will make and keep you rich in your heart and you will die happy
-#. Remember, you can never live down a failure in friendship
-#. Tell the truth
-#. Never misrepresent to sell
-#. Never let a friend or anyone else deceive himself. To do so is thoroughly dishonest. Set him right at once
-#. Do not gamble, certainly not for recreation. It becomes a disease
-#. Take no alcoholic drinks with or for man or woman
-#. You more than anyone else I know, should continue to abstain from the use of tobacco in any form
-#. Now is tomorrow. Make every man respect you for what you are at the moment
-#. Avoid the very appearance of suspicion where honor or honestly are concerned. If you are headed wrong take your loss quickly and get straight with the world and yourself. Never mind what it costs to do so
-#. Do not cut corners, but live fully up to the rules
-#. Never leave a friend in doubt of your sincerity. Meet him more than half way and bounce the suspicion out of him. Make him ashamed and do it quickly. Don't let his suspicions grow
-#. Never be advised in matters of conscience. It's a no good advice
-#. Consider well the profound physical effects of any suppressed emotion or frustration. I have found out that you can't live sanely apart from others. You've got to talk things out with others of your own choosing and kind. It's an axiom of living
-#. Marry a girl you can talk with, work with, fish with, think with. Marry a girl you can respect fully as you do your mother and your sisters. None other will do. Mind you, any other will wreck you with her selfishness, or her stupidity, or her coarseness, or her aversion to soap and water
-#. Don't overwork in any way. Create diverse interests for yourself. Never do any hard physical labor you can hire done. You haven't found it out yet, but you are not constituted for continued hard labor. Gotta learn to manage
-#. Don't work always individually for others for wages. You can't get anywhere that way. Save your energy to use in other ways
-#. Never miss a ball game if you can help it
-#. Relax and relax and relax. Study Chinese psychology till you love it second only to your wife and the sprouts. The Chinese are the wisest people in the world. If you can make a close friend of one do so
-#. Do not fear God or fret about who, what, where or how he is. but never get the idea you are smart and don't need Him. No one can half live without him. It's a personal matter. He's here all right. You don't have to be smart to figure that out
-#. While you are still young get wise to the magic of interest. Most people pay interest all their lives and few have anything to show for it. At 6% a single $1000.00 becomes $30,000.00 during a man's active business life if he risks it only on good security. It is easier and more interesting to collect interest than to pay it. Remember this and do not play with other peoples' money. Let them use yours. A good mortgage is better than the security itself. But never take exorbitant interest from folks in distress
-#. Don't ever hope to soften an enemy by saying kind things about him. You've got to say 'em to him
-#. Wanted friendships must be re-newed. They must be kept in constant repair. Also they must be constantly increased, else you will run out of friends. Be sociable always
-#. Hope isn't worth much of itself alone; but without it you are 99% short
-#. When after deliberation you have decided get a move on and do it
-#. Paint will sell it, - to you if you don't watch out
+1. Remembering your solemn pledge to your father never to do so, do not under any circumstances sign another man's note  
+#. Avoid any company or partnership not incorporated  
+#. Never employ an attorney of mediocre abilities  
+#. Beware the competitor's attorney  
+#. Do not expect to find honest and intelligent lawyers on every street. There are many, of course, to be found, but you should live so long  
+#. Trust very few men 100%  
+#. Except in extreme cases never go into a partnership without control  
+#. If it is you they want rather than your money say "no"  
+#. Do not over insure your life, $10,000 is enough except for business purposes  
+#. Analyze critically but do not be afraid to take chances  
+#. Listen attentively to your hunches  
+#. Quickly forget your losses and unpleasantness of the past that is not useful to you  
+#. Avoid all debt, except on real estate, until you have $10,000  
+#. After that do not go into debt in excess of 1/4 of your worth  
+#. Do not take money from one project to bolster another. Make each do its stuff or get rid of it  
+#. Never fleece a man because he is stupid. Natural shifting values and demands will make you rich if men trust you and you know your way around  
+#. You make your profit on the buying price, seldom on the selling  
+#. It is sometimes OK to be pretty stubborn, provided it doesn't cost anything  
+#. If your neighbors seem always to be good you are a right guy yourself  
+#. Be generous, never tight. Sane spending and giving comes back like hairy vetch, it also helps you to stay young  
+#. According to your position, income and circumstances spend all it takes to live well and to enjoy living to the fullest. Dress well. Keep a good home, set a good table and see that many friends come. You will need them  
+#. A man is dead, half dead, or alive according to the number and quality of his friends. Yet only a few in a life time are to be fully trusted. They make mistakes too, you know  
+#. You've got to like folks to make them like you. Set about it honestly, naturally. Make it an art. It will make and keep you rich in your heart and you will die happy  
+#. Remember, you can never live down a failure in friendship  
+#. Tell the truth  
+#. Never misrepresent to sell  
+#. Never let a friend or anyone else deceive himself. To do so is thoroughly dishonest. Set him right at once  
+#. Do not gamble, certainly not for recreation. It becomes a disease  
+#. Take no alcoholic drinks with or for man or woman  
+#. You more than anyone else I know, should continue to abstain from the use of tobacco in any form  
+#. Now is tomorrow. Make every man respect you for what you are at the moment  
+#. Avoid the very appearance of suspicion where honor or honestly are concerned. If you are headed wrong take your loss quickly and get straight with the world and yourself. Never mind what it costs to do so  
+#. Do not cut corners, but live fully up to the rules  
+#. Never leave a friend in doubt of your sincerity. Meet him more than half way and bounce the suspicion out of him. Make him ashamed and do it quickly. Don't let his suspicions grow  
+#. Never be advised in matters of conscience. It's a no good advice  
+#. Consider well the profound physical effects of any suppressed emotion or frustration. I have found out that you can't live sanely apart from others. You've got to talk things out with others of your own choosing and kind. It's an axiom of living  
+#. Marry a girl you can talk with, work with, fish with, think with. Marry a girl you can respect fully as you do your mother and your sisters. None other will do. Mind you, any other will wreck you with her selfishness, or her stupidity, or her coarseness, or her aversion to soap and water  
+#. Don't overwork in any way. Create diverse interests for yourself. Never do any hard physical labor you can hire done. You haven't found it out yet, but you are not constituted for continued hard labor. Gotta learn to manage  
+#. Don't work always individually for others for wages. You can't get anywhere that way. Save your energy to use in other ways  
+#. Never miss a ball game if you can help it  
+#. Relax and relax and relax. Study Chinese psychology till you love it second only to your wife and the sprouts. The Chinese are the wisest people in the world. If you can make a close friend of one do so  
+#. Do not fear God or fret about who, what, where or how he is. but never get the idea you are smart and don't need Him. No one can half live without him. It's a personal matter. He's here all right. You don't have to be smart to figure that out  
+#. While you are still young get wise to the magic of interest. Most people pay interest all their lives and few have anything to show for it. At 6% a single $1000.00 becomes $30,000.00 during a man's active business life if he risks it only on good security. It is easier and more interesting to collect interest than to pay it. Remember this and do not play with other peoples' money. Let them use yours. A good mortgage is better than the security itself. But never take exorbitant interest from folks in distress  
+#. Don't ever hope to soften an enemy by saying kind things about him. You've got to say 'em to him  
+#. Wanted friendships must be re-newed. They must be kept in constant repair. Also they must be constantly increased, else you will run out of friends. Be sociable always  
+#. Hope isn't worth much of itself alone; but without it you are 99% short  
+#. When after deliberation you have decided get a move on and do it  
+#. Paint will sell it, - to you if you don't watch out  
 #. Before you are thirty you should be established and successful, or you would have earnestly tried many things; you can't or won't venture much in your later years. The wise ones never do. Get your "trial experiences" early. Every time you go broke you become a better man if you are still a man
 
 # The Fence Corner
 
->| Unpainted, plain, as drab as winter weeds 
->| Your weathered form stands here beside the road.
->| Where faded sunflowers bend their weary heads
->| And withered milkweeds through the year have stood.
->| 
->| How like the dried up landscape hereabout
->| By wind and rain stripped bare to root to rock
->| Those naked, greyblue arms on which you lean
->| Apart of this for eons part you seem.
->| 
->| Select and strong, a major sentinel you stand
->| For stress and strain by double cable bound.
->| Tight set your beams, deep down your rides aground
->| For failure here down every line {had come
->|                                  {would come
->|                                  {was found
->| 
->| Though summer suns relax your iron bands
->| Relieving tension, lessening your task
->| Fierce winter winds with humming in your strands
->| Have braced your might to meet cold winter's grasp.
->| 
->| So commonplace a thing of everyday,
->| And yet beyond your guarding and restraint
->| The thrilling epoch plainly can be seen
->| Of mankinds' conquest of material things.
+>| Unpainted, plain, as drab as winter weeds     
+>| Your weathered form stands here beside the road.    
+>| Where faded sunflowers bend their weary heads    
+>| And withered milkweeds through the year have stood.    
+ 
+>| How like the dried up landscape hereabout    
+>| By wind and rain stripped bare to root to rock    
+>| Those naked, greyblue arms on which you lean    
+>| Apart of this for eons part you seem.    
+ 
+>| Select and strong, a major sentinel you stand    
+>| For stress and strain by double cable bound.    
+>| Tight set your beams, deep down your rides aground    
+>| For failure here down every line {had come    
+>|                                  {would come    
+>|                                  {was found  
+ 
+>| Though summer suns relax your iron bands  
+>| Relieving tension, lessening your task  
+>| Fierce winter winds with humming in your strands  
+>| Have braced your might to meet cold winter's grasp.  
+ 
+>| So commonplace a thing of everyday,  
+>| And yet beyond your guarding and restraint  
+>| The thrilling epoch plainly can be seen  
+>| Of mankinds' conquest of material things.  
 
 On the back Rd corner standing by the Rd. just before you come to the old prune drier.
 
->| Here by the roadside
->| Weathered and greying
->| Drab as the sunflowers
->| Drooping and faded
->| And last year's milkweed
->| Plain and unpainted
->| Drab as the weeds of winter
->| Your weathered form stands
->| Here by the roadside
->| Where faded sunflowers
->| Droop their weary heads
->| And withered milkweeds
->| Through the year have stood.
->| How like the landscape
->| Stripped bare in places
+>| Here by the roadside  
+>| Weathered and greying  
+>| Drab as the sunflowers  
+>| Drooping and faded  
+>| And last year's milkweed  
+>| Plain and unpainted  
+>| Drab as the weeds of winter  
+>| Your weathered form stands  
+>| Here by the roadside  
+>| Where faded sunflowers  
+>| Droop their weary heads  
+>| And withered milkweeds  
+>| Through the year have stood.  
+>| How like the landscape  
+>| Stripped bare in places  
 
 # Not Man Alone
 
->| Is there a religion of the trees and beasts?
->| Are all creatures equal in the sight of God?
->| "Man's a favored species," say the (some) learned priests
->| "Learning naught from teachers quite so near the sod."
+>| Is there a religion of the trees and beasts?  
+>| Are all creatures equal in the sight of God?  
+>| "Man's a favored species," say the (some) learned priests  
+>| "Learning naught from teachers quite so near the sod."  
  
->| Are not all immortal in heredity?
->| Is not matter sentient where e'er it my be?
->| Life's evolving process intricate but seen
->| In revealing guidance includes more than man.
+>| Are not all immortal in heredity?  
+>| Is not matter sentient where e'er it my be?  
+>| Life's evolving process intricate but seen  
+>| In revealing guidance includes more than man.  
  
->| All things are united, life in death is lain;
->| Only on his slaying can a life depend;
->| Man who's no exception slays and must be slain;
->| His rapacious nature meets rapacious end.
+>| All things are united, life in death is lain;  
+>| Only on his slaying can a life depend;  
+>| Man who's no exception slays and must be slain;  
+>| His rapacious nature meets rapacious end.  
  
->| Countryman and poet, sensuous forester,
->| Nobler minds who hunger for the countryside,
->| Know a man's no better, has no preference,
->| In life's earnest battle falls, too, his defense.
+>| Countryman and poet, sensuous forester,  
+>| Nobler minds who hunger for the countryside,  
+>| Know a man's no better, has no preference,  
+>| In life's earnest battle falls, too, his defense.  
  
->| Truth on courage waiting, fear our greatest sin,
->| Youth and age debating what has never been,
->| Man's my opic preference countervails his cause
->| Wiser far his deference to the sterner laws.
+>| Truth on courage waiting, fear our greatest sin,  
+>| Youth and age debating what has never been,  
+>| Man's my opic preference countervails his cause  
+>| Wiser far his deference to the sterner laws.  
  
->| Superstitions stubborn bar the way to truth;
->| Scientific order purges best in youth;
->| Cowardly emotions, fearful sentiment
->| Rob us of our reason, make us arrogant.
+>| Superstitions stubborn bar the way to truth;  
+>| Scientific order purges best in youth;  
+>| Cowardly emotions, fearful sentiment  
+>| Rob us of our reason, make us arrogant.  
  
->| How do trees in timber lift their leaves to light?
->| Groping vines their fingers twine the garden fence?
->| By the same acumen all of life must thrive;
->| Who has severed instinct from intelligence?
+>| How do trees in timber lift their leaves to light?  
+>| Groping vines their fingers twine the garden fence?  
+>| By the same acumen all of life must thrive;  
+>| Who has severed instinct from intelligence?  
  
->| Lilies clothed in grandure by the father's hand
->| In response are stretching up to him like man,
->| Kneeling down at evening, rising pure and fair,
->| Who shall doubt the father hears the lily's prayer?
+>| Lilies clothed in grandure by the father's hand  
+>| In response are stretching up to him like man,  
+>| Kneeling down at evening, rising pure and fair,  
+>| Who shall doubt the father hears the lily's prayer?  
 
->| Beasts and trees like people stand before their God,
->| With respect he counsels e'en the lowly clod;
->| Instinct reaches up to him ever and anew,
->| Which is all to please him we know how to do.
+>| Beasts and trees like people stand before their God,  
+>| With respect he counsels e'en the lowly clod;  
+>| Instinct reaches up to him ever and anew,  
+>| Which is all to please him we know how to do.  
  
->| Man for all his temples learns best near the sod;
->| There is real awareness everywhere of God;
->| Faith required for living gropes toward deity,
->| Save the soil's called holy can aught sacred be?
+>| Man for all his temples learns best near the sod;  
+>| There is real awareness everywhere of God;  
+>| Faith required for living gropes toward deity,  
+>| Save the soil's called holy can aught sacred be?  
  
->| If I could be the man I'd like to be
->| From all these hopeless plans and dreams set free
->| And, haply, without shame and without scorn
->| Accept the lesser ways to carry on
->| Set down beside my name when I was born,--
+>| If I could be the man I'd like to be  
+>| From all these hopeless plans and dreams set free  
+>| And, haply, without shame and without scorn  
+>| Accept the lesser ways to carry on  
+>| Set down beside my name when I was born,--  
  
->| If I could be myself successfully,
->| Could never fear what people think of me,
->| Could live today instead of yesterday,
->| And let tomorrow come in his own way,--
+>| If I could be myself successfully,  
+>| Could never fear what people think of me,  
+>| Could live today instead of yesterday,  
+>| And let tomorrow come in his own way,--  
  
->| How grand 'twould be to live by rules like these!
->| I'd then be one and live just as I please!
+>| How grand 'twould be to live by rules like these!  
+>| I'd then be one and live just as I please!  
 
 # Essay on Adrenaline
 
->| One day when I was feeling at my worst
->| And dismally pondering what it's all about
->| I got to thinking of some traitorous friends-
->| Of all the people I dislike, and why,
->| And those who for good reasons undenied
->| Will ever have no further use for me.
+>| One day when I was feeling at my worst  
+>| And dismally pondering what it's all about  
+>| I got to thinking of some traitorous friends-  
+>| Of all the people I dislike, and why,  
+>| And those who for good reasons undenied  
+>| Will ever have no further use for me.  
 
->| Reflecting thus on man's deceit and dirt
->| I set down names and grading marks to show
->| The measure of a smoldering hate and hurt
->| Some were to live, of course, but some to go.
+>| Reflecting thus on man's deceit and dirt  
+>| I set down names and grading marks to show  
+>| The measure of a smoldering hate and hurt  
+>| Some were to live, of course, but some to go.  
 
->| There were a lot of them and as I passed
->| The hundredth one I gave it up at last
->| And putting smoking pen and chart away
->| I left them there just as they were that day.
+>| There were a lot of them and as I passed  
+>| The hundredth one I gave it up at last  
+>| And putting smoking pen and chart away  
+>| I left them there just as they were that day.  
 
->| Another day when I was at my best
->| After a deep, long night of Morphine rest
->| You drank your coffee with me from the tray
->| And you could laugh with color in your cheek
->| And life seemed full again for you and me.
+>| Another day when I was at my best  
+>| After a deep, long night of Morphine rest  
+>| You drank your coffee with me from the tray  
+>| And you could laugh with color in your cheek  
+>| And life seemed full again for you and me.  
 
->| I got to thinking of some folks we know
->| Who happy like ourselves believe and show
->| They're kindly when they're better understood.
->| Just knowing folks like that has meant a lot
->| And truly I recalled to my chagrin
->| That some have met me more than half the way
->| And some who knew me well have made it all.
+>| I got to thinking of some folks we know  
+>| Who happy like ourselves believe and show  
+>| They're kindly when they're better understood.  
+>| Just knowing folks like that has meant a lot  
+>| And truly I recalled to my chagrin  
+>| That some have met me more than half the way  
+>| And some who knew me well have made it all.  
 
->| Reflecting thus and shriven holily
->| I wrote some names I like to hear and see
->| And after each a mark to show 
->| the measure of my high regard and why 'twas so.
+>| Reflecting thus and shriven holily  
+>| I wrote some names I like to hear and see  
+>| And after each a mark to show   
+>| the measure of my high regard and why 'twas so.  
 
->| There were a lot of them I was surprised
->| Old friends and new, by no one e'er despised;-
->| A never ending record this would be;
->| I gave it up at last and let it lay.
->| My! What sincere, good will I felt that day!
+>| There were a lot of them I was surprised  
+>| Old friends and new, by no one e'er despised;-  
+>| A never ending record this would be;  
+>| I gave it up at last and let it lay.  
+>| My! What sincere, good will I felt that day!  
 
->| Now, one would know his friends and who are not
->| But how's a fellow going to figure out 
->| If one day all men seem his friends to be
->| And next he'd hang a man on every tree.
+>| Now, one would know his friends and who are not  
+>| But how's a fellow going to figure out   
+>| If one day all men seem his friends to be  
+>| And next he'd hang a man on every tree.  
 
->| Reflecting thus, these records as my chart,
->| In vain I tried to tell the lists apart.
->| How do you think I solved that mystery?
->| I found your name on only one, you see.
+>| Reflecting thus, these records as my chart,  
+>| In vain I tried to tell the lists apart.  
+>| How do you think I solved that mystery?  
+>| I found your name on only one, you see.  
 
 # Glacier Park 1915
 
->| A marmots' shrill whistle,
->| A camprobber's call,
->| White trembling aspens,
->| A cool water-fall.
+>| A marmots' shrill whistle,  
+>| A camprobber's call,  
+>| White trembling aspens,  
+>| A cool water-fall.  
 
->| A teetering ouzel,
->| His flawless glass pool,
->| A chittering chipmonk,
->| We knew them so well.
+>| A teetering ouzel,  
+>| His flawless glass pool,  
+>| A chittering chipmonk,  
+>| We knew them so well.  
 
->| Sweet mountain wood fragrance
->| Beneath the cool drapes.
->| Soft fountain made cadence
->| Hushed murmurs sedate
+>| Sweet mountain wood fragrance  
+>| Beneath the cool drapes.  
+>| Soft fountain made cadence  
+>| Hushed murmurs sedate  
 
->| Through ceilingless hallways
->| The lofty tree tops
->| Now quiver whenever
->| The passing wind stops.
+>| Through ceilingless hallways  
+>| The lofty tree tops  
+>| Now quiver whenever  
+>| The passing wind stops.  
 
->| The wind climbs the mountain
->| The pine tops to thrill;               
->| They whisper and murmur;
->| They cannot be still.
+>| The wind climbs the mountain  
+>| The pine tops to thrill;                 
+>| They whisper and murmur;  
+>| They cannot be still.  
 
->| Tamed brown was the maiden,
->| Wind blown her fair hair;
->| I jealous persistence
->| Persuing apace
->| The sun at each opening
->| Selected her face.
+>| Tamed brown was the maiden,  
+>| Wind blown her fair hair;  
+>| I jealous persistence  
+>| Persuing apace  
+>| The sun at each opening  
+>| Selected her face.  
 
->| To-gether we wandered
->| To-gether lay prone
->| To drink from the water's
->| Cool basins of stone.
+>| To-gether we wandered  
+>| To-gether lay prone  
+>| To drink from the water's  
+>| Cool basins of stone.  
 
->| The woods and their flowers,
->| The swift river's place,
->| Received her and loved her
->| Within their embrace.
+>| The woods and their flowers,  
+>| The swift river's place,  
+>| Received her and loved her  
+>| Within their embrace.  
 
->| Her laughter was silver
->| That sounded the wall
->| And wakened an echo
->| In each lonely hall.
+>| Her laughter was silver  
+>| That sounded the wall  
+>| And wakened an echo  
+>| In each lonely hall.  
 
->| Less blue than her eye
->| Was the rock-splitten sky,
->| The green velvet carpet less regal.
->| The bright silver poplars
->| Aglow and a-smoking
->| Their queen would escort were they able.
+>| Less blue than her eye  
+>| Was the rock-splitten sky,  
+>| The green velvet carpet less regal.  
+>| The bright silver poplars  
+>| Aglow and a-smoking  
+>| Their queen would escort were they able.  
 
->| Close down by the river
->| And over the bog.
->| How well I remember
->| Our old resting log.
+>| Close down by the river  
+>| And over the bog.  
+>| How well I remember  
+>| Our old resting log.  
 
->| My arm would go 'round her.
->| And she would resist;
->| Unwilling I found her;
->| She hadn't been kissed;
+>| My arm would go 'round her.  
+>| And she would resist;  
+>| Unwilling I found her;  
+>| She hadn't been kissed;  
 
->| Must memories golden
->| Like those ever fade?
->| Those times are not olden,
->| These years they have stayed.
+>| Must memories golden  
+>| Like those ever fade?  
+>| Those times are not olden,  
+>| These years they have stayed.  
 
 The mockingbird does not look back to see the effect of his wonderful song. A lesson here. We small souls try to make everything circulate inward towards us not toward the circumference of the orbit we could fill if we would. And we are disturbed when we fail to create impressions. Each speaking his own message in his own way and for his own purpose.
 
 # The Soul's Highest Duty Is To Be Of Good Cheer
 
->| Mysteriously arrived into life we come,
->| Are set on our feet, on we go.
->| Here function our lives ineffectively,
->| As driven by a destiny none understands
->| Permuting we reap as permuting sow.
+>| Mysteriously arrived into life we come,  
+>| Are set on our feet, on we go.  
+>| Here function our lives ineffectively,  
+>| As driven by a destiny none understands  
+>| Permuting we reap as permuting sow.  
 
->| Bewildered and shocked by successive events
->| Engulfed we become, e'en floundered submerged
->| As swimmers exhausted each carrying his load
->| Through enormous deep seas grown dark and perturbed
+>| Bewildered and shocked by successive events  
+>| Engulfed we become, e'en floundered submerged  
+>| As swimmers exhausted each carrying his load  
+>| Through enormous deep seas grown dark and perturbed  
 
->| Mysterious journey; uncharted, unknown;
->| Tremendous adventure,- unfinal, withal;
->| Alarming departure, escaping no man;
->| The baffling enigma of this human spell
->| All earth has not fathomed and Heaven won't tell.
+>| Mysterious journey; uncharted, unknown;  
+>| Tremendous adventure,- unfinal, withal;  
+>| Alarming departure, escaping no man;  
+>| The baffling enigma of this human spell  
+>| All earth has not fathomed and Heaven won't tell.  
 
->| Far out on that evilly darkening sea
->| The sunset's high walls rise between us.
->| Portentous the sunset of that other dawn's glow
->| And years teach so much that the days never know.
+>| Far out on that evilly darkening sea  
+>| The sunset's high walls rise between us.  
+>| Portentous the sunset of that other dawn's glow  
+>| And years teach so much that the days never know.  
 
 # Death
 
->| And in that surrender what then shall sustain?
->| The sad reef's sursurations eternal?
->| The flickering hope of a life yet to gain
->| In the blackness of darkness forever?
->| All life seems but death; All death seems but loss
->| Yet sunset glows brighter than dawn.
+>| And in that surrender what then shall sustain?  
+>| The sad reef's sursurations eternal?  
+>| The flickering hope of a life yet to gain  
+>| In the blackness of darkness forever?  
+>| All life seems but death; All death seems but loss  
+>| Yet sunset glows brighter than dawn.  
  
->| Ah, that tenebrous road! So black dark is death
->| There's naught in the dark wharf's cavernous breath
->| Save the opume of life's billows yet chilling and cold
->| To soothe and make lighter earth's lessening hold.
+>| Ah, that tenebrous road! So black dark is death  
+>| There's naught in the dark wharf's cavernous breath  
+>| Save the opume of life's billows yet chilling and cold  
+>| To soothe and make lighter earth's lessening hold.  
  
->| Alone! Ah, Alas! On that tenebrous pass,
->| As puling the while the grim tylor's shroud,
->| Through shadows everlasting I shall pass him at last,
->| The invisible, mute tylor who shows me the road.
+>| Alone! Ah, Alas! On that tenebrous pass,  
+>| As puling the while the grim tylor's shroud,  
+>| Through shadows everlasting I shall pass him at last,  
+>| The invisible, mute tylor who shows me the road.  
  
->| They await the night
->| Deep and dark, but cooling
->| To their aching sight.
+>| They await the night  
+>| Deep and dark, but cooling  
+>| To their aching sight.  
  
->| I shall pas him alone and hear on his breath
->| That soothing? sustaining? delicious? word, "death".
+>| I shall pas him alone and hear on his breath  
+>| That soothing? sustaining? delicious? word, "death".  
 
 # Bankers I Have Known
 
->| In their gardens wintry
->| By the evil sea
->| Anxious men and women
->| Labor franticly;
+>| In their gardens wintry  
+>| By the evil sea  
+>| Anxious men and women  
+>| Labor franticly;  
  
->| Not to plant more roses
->| For the passers by,
->| But to pluck the posies
->| And put them away.
+>| Not to plant more roses  
+>| For the passers by,  
+>| But to pluck the posies  
+>| And put them away.  
  
->| They are sick and weary
->| Beyond help, alas!
->| Is their hopeless vision
->| Like the withered grass.
+>| They are sick and weary  
+>| Beyond help, alas!  
+>| Is their hopeless vision  
+>| Like the withered grass.  
  
->| In their gardens lonely
->| They await the night
->| Deep and dark, but cooling
->| To their aching sight.
+>| In their gardens lonely  
+>| They await the night  
+>| Deep and dark, but cooling  
+>| To their aching sight.  
 
 # Peggy Next Morning
 
->| The wind is blowin' in ar' trees,
->| An' it keeps rainin' out;
->| My pillow's showin' all my tears
->| From this tooth ache I've got.
+>| The wind is blowin' in ar' trees,  
+>| An' it keeps rainin' out;  
+>| My pillow's showin' all my tears  
+>| From this tooth ache I've got.  
  
->| I heard you sleepin',- Daddy, too;
->| An' you know what I said?
->| I said, "You needn't bother you,
->| tomorrow I'll be dead."
+>| I heard you sleepin',- Daddy, too;  
+>| An' you know what I said?  
+>| I said, "You needn't bother you,  
+>| tomorrow I'll be dead."  
 
 # Peggy (as told by her) \
   at 4
 
->| Wind in the willow,
->| Rain on the roof,
->| Tears on my pillow,
->| Pain in my tooth.
+>| Wind in the willow,  
+>| Rain on the roof,  
+>| Tears on my pillow,  
+>| Pain in my tooth.  
  
->| Mother and father
->| Sleeping in bed,
->| No need to bother,
->| Soon I'll be dead.
+>| Mother and father  
+>| Sleeping in bed,  
+>| No need to bother,  
+>| Soon I'll be dead.  
 
 # Parting
 
->| It should not be hard to set forth at last
->| Out into that ward enormously vast
->| If only no parting awaited in store,
->| No sorrow to darken and harrow the shore.
+>| It should not be hard to set forth at last  
+>| Out into that ward enormously vast  
+>| If only no parting awaited in store,  
+>| No sorrow to darken and harrow the shore.  
  
->| No spindrift or roar of that stormy sea
->| Could lend fearsome awe for flotsam like me,
->| If only this heart which I have so bound,
->| This so royal part of our common mind,
->| I must not forsake nor ever need find.
+>| No spindrift or roar of that stormy sea  
+>| Could lend fearsome awe for flotsam like me,  
+>| If only this heart which I have so bound,  
+>| This so royal part of our common mind,  
+>| I must not forsake nor ever need find.  
  
->| But life is but death and death life to b e;
->| The future and past might well be but one;
->| What other than this is eternity?
->| Then hope to the last (as others have done.
->|                   (and trust what may come.
+>| But life is but death and death life to b e;  
+>| The future and past might well be but one;  
+>| What other than this is eternity?  
+>| Then hope to the last (as others have done.  
+>|                   (and trust what may come.  
  
->| And whether I've earned disfavor of men,
->| Or better mankind because I have been,
->| I only know well that corner to fear
->| Which turns me away forever from her.
+>| And whether I've earned disfavor of men,  
+>| Or better mankind because I have been,  
+>| I only know well that corner to fear  
+>| Which turns me away forever from her.  
 
 # Things Cogitable
 
->| Why so, or how, mysteriously I came
->| Into the world; here found folks much the same,-
->| Lightly endowed; but curiosity
->| Rightly allowed their greatest faculty.
+>| Why so, or how, mysteriously I came  
+>| Into the world; here found folks much the same,-  
+>| Lightly endowed; but curiosity  
+>| Rightly allowed their greatest faculty.  
  
->| In this brief time between eternities
->| All winds have hurried; none have brought me peace;
->| Illfavored winds for him must ever blow
->| Who knows not where his ship was meant to go.
->| I sought for long but never did I find
->| The key flower of it all, the quiet mind.
+>| In this brief time between eternities  
+>| All winds have hurried; none have brought me peace;  
+>| Illfavored winds for him must ever blow  
+>| Who knows not where his ship was meant to go.  
+>| I sought for long but never did I find  
+>| The key flower of it all, the quiet mind.  
  
->| What I have done to help or stay the plan
->| So finite is that none will think to scan;-
->| No good sufficient grounds on which to build
->| An intellectual arrogance, high willed;
->| Much more than brains I've displayed character
->| A character developed wittingly
->| To make up for the wind's deficiency.
+>| What I have done to help or stay the plan  
+>| So finite is that none will think to scan;-  
+>| No good sufficient grounds on which to build  
+>| An intellectual arrogance, high willed;  
+>| Much more than brains I've displayed character  
+>| A character developed wittingly  
+>| To make up for the wind's deficiency.  
  
->| All thinking to the profit of my soul
->| I set the dim high mountains as my goal;
->| Ambition its rewards would surely see;-
->| My burning energy has burnt but me.
+>| All thinking to the profit of my soul  
+>| I set the dim high mountains as my goal;  
+>| Ambition its rewards would surely see;-  
+>| My burning energy has burnt but me.  
  
->| How useless are regrets if every step
->| Its motivation gets in what we are.
->| Perfection is but normalcy, they say,
->| Then which of us is normal for a day?
+>| How useless are regrets if every step  
+>| Its motivation gets in what we are.  
+>| Perfection is but normalcy, they say,  
+>| Then which of us is normal for a day?  
  
->| I've tried to understand and guard against
->| The prepossessions of an unfair mind.
->| But more of ill than good I would expect
->| And seldom were folks otherwise inclined.
+>| I've tried to understand and guard against  
+>| The prepossessions of an unfair mind.  
+>| But more of ill than good I would expect  
+>| And seldom were folks otherwise inclined.  
  
->| Then only in the deepest moving tides
->| Did I find trust or place my confidence;
->| I found folks unaccountable and mean;
->| I had no natural trust in any man.
+>| Then only in the deepest moving tides  
+>| Did I find trust or place my confidence;  
+>| I found folks unaccountable and mean;  
+>| I had no natural trust in any man.  
 
->| I want to be enormously myself;
->| No longer waiting to be made to laugh.
->| No longer noting well in judgments sound 
->| With all my wisdom dwindled down to fact
->| The dearth of noble natures to be found,
->| Nor find so easily disparity
->| Between appearance and reality.
+>| I want to be enormously myself;  
+>| No longer waiting to be made to laugh.  
+>| No longer noting well in judgments sound   
+>| With all my wisdom dwindled down to fact  
+>| The dearth of noble natures to be found,  
+>| Nor find so easily disparity  
+>| Between appearance and reality.  
  
->| I fought to find the barren mountain towers
->| Heard not the birds nor ever saw the flowers;
->| Show me the paths that go into the hills
->| And all the ways that lead to home again.
->| Make me content to see the world so grand
->| And not be see. Let me to understand
->| And gain the power to mold intention's will.
+>| I fought to find the barren mountain towers  
+>| Heard not the birds nor ever saw the flowers;  
+>| Show me the paths that go into the hills  
+>| And all the ways that lead to home again.  
+>| Make me content to see the world so grand  
+>| And not be see. Let me to understand  
+>| And gain the power to mold intention's will.  
  
->| I wonder how 'twould be to know this plan
->| Earth has not taught and Heaven will not tell;
->| But then my curiosity expands
->| To know the origin of God Himself.
+>| I wonder how 'twould be to know this plan  
+>| Earth has not taught and Heaven will not tell;  
+>| But then my curiosity expands  
+>| To know the origin of God Himself.  
 
 # About God
 
->| I've thought too much of life and death and God;
->| Will ever anything perfection prove
->| Alone because men want to have it so?
->| Must I believe of mortal necessity?
->| Not even if belief grew up with man;
->| My mind this sense of duty cannot find,
->| I cannot worship by the fear of God.
->| The churches I can never understand
->| They preach but by their structures do deny
->| The unity of all mankind so grand.
+>| I've thought too much of life and death and God;  
+>| Will ever anything perfection prove  
+>| Alone because men want to have it so?  
+>| Must I believe of mortal necessity?  
+>| Not even if belief grew up with man;  
+>| My mind this sense of duty cannot find,  
+>| I cannot worship by the fear of God.  
+>| The churches I can never understand  
+>| They preach but by their structures do deny  
+>| The unity of all mankind so grand.  
  
->| If without faith there is no hope at last
->| Within our limitations coffined fast
->| What shall we think according too our faith
->| When this revolving planet burning fast
->| Or chilled throughout in ice and snow and waste
->| No longer habitation gives and all
->| The stars are called back home and gone to place
->| The body's mortal memories long lost,
->| When life's brief meaning has for all gone out
->| And is not anymore but all's forgot?
+>| If without faith there is no hope at last  
+>| Within our limitations coffined fast  
+>| What shall we think according too our faith  
+>| When this revolving planet burning fast  
+>| Or chilled throughout in ice and snow and waste  
+>| No longer habitation gives and all  
+>| The stars are called back home and gone to place  
+>| The body's mortal memories long lost,  
+>| When life's brief meaning has for all gone out  
+>| And is not anymore but all's forgot?  
  
->| A million years from now it may well be
->| This _sacred plan_ for which we seek the key
->| The want of which so irritates our pride,
->| Illuminated by its own white light,
->| So far and wide _will sketch_ its broad _design_
->| That mankind at this stage of his long climb
->| May merit only for his pains and strife
->| That he has handed on the flame of life.
+>| A million years from now it may well be  
+>| This _sacred plan_ for which we seek the key  
+>| The want of which so irritates our pride,  
+>| Illuminated by its own white light,  
+>| So far and wide _will sketch_ its broad _design_  
+>| That mankind at this stage of his long climb  
+>| May merit only for his pains and strife  
+>| That he has handed on the flame of life.  
  
->| The owl sees best out in the dark of night
->| And hides him lest the morning bring him light;
->| I cannot close my eyes in fear of truth
->| And pride myself that I should need no proof.
+>| The owl sees best out in the dark of night  
+>| And hides him lest the morning bring him light;  
+>| I cannot close my eyes in fear of truth  
+>| And pride myself that I should need no proof.  
 
->| Like wanted treasure deep down in the sea
->| My faith alone can never solve for me
->| An intellectual problem, mystery.
+>| Like wanted treasure deep down in the sea  
+>| My faith alone can never solve for me  
+>| An intellectual problem, mystery.  
  
->| I make no case against the wild beliefs,-
->| More stupid kind; Religions suit the mind.
->| With wholesome interest in the evidence
->| What greater comfort can we find to show
->| The soul's survival after death than know
->| _New avenues_ of truth, though hard to find.
+>| I make no case against the wild beliefs,-  
+>| More stupid kind; Religions suit the mind.  
+>| With wholesome interest in the evidence  
+>| What greater comfort can we find to show  
+>| The soul's survival after death than know  
+>| _New avenues_ of truth, though hard to find.  
  
->| Religions suit the mind and rightly so
->| It is mind suiting religion that has kept man
->| so are behind his natural scientific attainments.
+>| Religions suit the mind and rightly so  
+>| It is mind suiting religion that has kept man  
+>| so are behind his natural scientific attainments.  
 
 # Regret
 
->| In a chamber dark and deep
->| Of this otherwise tenable heart
->| Slumbering long but never asleep
->| Lie some things so unhappy
->| Even to me they must not impart
->| Their stifled accountings.
+>| In a chamber dark and deep  
+>| Of this otherwise tenable heart  
+>| Slumbering long but never asleep  
+>| Lie some things so unhappy  
+>| Even to me they must not impart  
+>| Their stifled accountings.  
 
 # More of the Cogitable
 
->| I find it hard to believe in God
->| But it is harder not to.
->| Who comprehends eternity?
->| To know is to extend it.
->| What after that? And before God what?
->| Eternal all of matter?
->| Was I or not from dead chaos brought?
->| All consciousness came after?
->| No. Nothing is ever really dead.
->| Unguided, dead chaos has made us men?
->| Man of such moral fiber?
->| Miraculous it must have been!
->| But I don't believe in miracles.
->| If matter is eternal so also is intelligence
->| The stones have mind sentiencies
->| which, though less complicated, work
->| more perfectly than do our own minds.
+>| I find it hard to believe in God  
+>| But it is harder not to.  
+>| Who comprehends eternity?  
+>| To know is to extend it.  
+>| What after that? And before God what?  
+>| Eternal all of matter?  
+>| Was I or not from dead chaos brought?  
+>| All consciousness came after?  
+>| No. Nothing is ever really dead.  
+>| Unguided, dead chaos has made us men?  
+>| Man of such moral fiber?  
+>| Miraculous it must have been!  
+>| But I don't believe in miracles.  
+>| If matter is eternal so also is intelligence  
+>| The stones have mind sentiencies  
+>| which, though less complicated, work  
+>| more perfectly than do our own minds.  
 
 # Fate
 
->| A few short years and who shall know
->| Which dust was me and which was you?
->| You cannot reach that cursed bourn.
->| Nor more attain than that writ down
->| Beside your name when you were born.
+>| A few short years and who shall know  
+>| Which dust was me and which was you?  
+>| You cannot reach that cursed bourn.  
+>| Nor more attain than that writ down  
+>| Beside your name when you were born.  
 
 # Kindness?
 
->| Who is he can properly
->| Define kindness? Thoroughly
->| Understand it, unfailing?
+>| Who is he can properly  
+>| Define kindness? Thoroughly  
+>| Understand it, unfailing?  
  
->| Kindness surely ought to be
->| The great virtue, let's agree;
->| But it is not,- not always.
+>| Kindness surely ought to be  
+>| The great virtue, let's agree;  
+>| But it is not,- not always.  
  
->| Kindness is not just to say
->| Kind things in a kindly way.
->| No it is not,- not always.
+>| Kindness is not just to say  
+>| Kind things in a kindly way.  
+>| No it is not,- not always.  
  
->| Destinies of noble men
->| Have been changed to shame and pain
->| Just by kindness, weak kindness.
+>| Destinies of noble men  
+>| Have been changed to shame and pain  
+>| Just by kindness, weak kindness.  
 
 # Her Broad Shoulders
 
->| To best oppugn misfortune's pain
->| Let man assume and without blame
->| His primal right by marriage earned
->| To square his plight with all concerned
->| In battles lost which taunt his life-
->| by blaming most things on his wife-
->| For only she his blame can hide.
->| The lie _could be_ her shame and pride.
+>| To best oppugn misfortune's pain  
+>| Let man assume and without blame  
+>| His primal right by marriage earned  
+>| To square his plight with all concerned  
+>| In battles lost which taunt his life-  
+>| by blaming most things on his wife-  
+>| For only she his blame can hide.  
+>| The lie _could be_ her shame and pride.  
 
 # Sketch of a Lady I know
 
->| With microscopic carelessness
->| She measures me, finds me once more
->| To her delight and my distress
->| Preferring compromise to war.
+>| With microscopic carelessness  
+>| She measures me, finds me once more  
+>| To her delight and my distress  
+>| Preferring compromise to war.  
  
->| Then patiently awaits redress,
->| Demurely meets me eye to eye.
->| Her own fullwilling to confess
->| Well,- anything she can't deny.
+>| Then patiently awaits redress,  
+>| Demurely meets me eye to eye.  
+>| Her own fullwilling to confess  
+>| Well,- anything she can't deny.  
 
 # Another Sketch of Same Lady
 
->| "When I tell things a second time
->| She's fascinated it appears
->| But listens only with her eyes
->| Closed tight the portals of her ears,
->| Her mind gone off afar from home
->| On pleasant journeys of its own;"   
->| And yet she waits my story's end
->| To say, "uh-huh," just like, "amen,"
->| As though she heard my every word. -
->| It's kind of her, but so absurd.
+>| "When I tell things a second time  
+>| She's fascinated it appears  
+>| But listens only with her eyes  
+>| Closed tight the portals of her ears,  
+>| Her mind gone off afar from home  
+>| On pleasant journeys of its own;"     
+>| And yet she waits my story's end  
+>| To say, "uh-huh," just like, "amen,"  
+>| As though she heard my every word. -  
+>| It's kind of her, but so absurd.  
 
 # Our Wish
 
->| If I could have one wish but only one
->| To make me happier than I have been
->| I'd wish that everything I've said or done
->| That was unfair or mean or proved unkind
->| Might be forgot be blotted out of mind
->| And never thought nor ever heard again.
+>| If I could have one wish but only one  
+>| To make me happier than I have been  
+>| I'd wish that everything I've said or done  
+>| That was unfair or mean or proved unkind  
+>| Might be forgot be blotted out of mind  
+>| And never thought nor ever heard again.  
  
->| But careless words let fall, like evil done,
->| Can never be recalled; their course must run
->| Who knows the never ending harm they do?
->| I can not even guess it, nor can you.
+>| But careless words let fall, like evil done,  
+>| Can never be recalled; their course must run  
+>| Who knows the never ending harm they do?  
+>| I can not even guess it, nor can you.  
 
 Friendship of _Mike Englebretson_. The hoeing stone he got from the old Norway homestead and gave to me.
 
->| He walked cunningly,
->|       Indian-like
->| He walked cautiously and firmly
->|       certainly not Indian-like.
+>| He walked cunningly,  
+>|       Indian-like  
+>| He walked cautiously and firmly  
+>|       certainly not Indian-like.  
  
->| Nor am I wanting in the
->|       purpose to avoid it-
->| Nature does not aggregate her gifts.
+>| Nor am I wanting in the  
+>|       purpose to avoid it-  
+>| Nature does not aggregate her gifts.  
  
->| Gorgonize him with their silent stares.
->| Boorish curiosity must be fully satisfied.
+>| Gorgonize him with their silent stares.  
+>| Boorish curiosity must be fully satisfied.  
 
 In the original plot-
 
->| _Dad Monk_, the engineer, oils a certain engine part,
->| makes ready to remount to his cab, but, seizing his opportunity (all eyes are on the salesman) he inserts the end of long snouted oil can into _Miller's_? white jacket pocket and squirts. Says as he pulls up his great weight to his seat in the cab, "Bet, by dad! He don't get a hot box."
+>| _Dad Monk_, the engineer, oils a certain engine part,  
+>| makes ready to remount to his cab, but, seizing his opportunity (all eyes are on the salesman) he inserts the end of long snouted oil can into _Miller's_? white jacket pocket and squirts. Says as he pulls up his great weight to his seat in the cab, "Bet, by dad! He don't get a hot box."  
 
 Dad Monk was my dad's good friend. Sometimes he let me ride in the engine in front of him in his long seat.
 
 # Flat Foot Sam
 
->| See, now, to what a bad endin' Ah's come.
->| And ahead a m'time, too, cause ah ain't old,-
->| No good-a-legs to stand up one and run-
->| Y'u'd never guess, would you, ah raced fur gold?
+>| See, now, to what a bad endin' Ah's come.  
+>| And ahead a m'time, too, cause ah ain't old,-  
+>| No good-a-legs to stand up one and run-  
+>| Y'u'd never guess, would you, ah raced fur gold?  
  
->| Well, it's the truth, mister, am tellin' y'u;-
->| Ah wuz the fastest man they wuz in town.
->| It's not a line. It's genuine ah'm sellin' y'u.
->| Ma record stands; nobody's took it down.
+>| Well, it's the truth, mister, am tellin' y'u;-  
+>| Ah wuz the fastest man they wuz in town.  
+>| It's not a line. It's genuine ah'm sellin' y'u.  
+>| Ma record stands; nobody's took it down.  
  
->| But now ma laigs don't seem to understand
->| That when I says t'go ah means t'go.
->| They's's more like pegs. These laigs wuz once so grand
->| It means I'm through. I'm tellin' you, brother, A'm through.
+>| But now ma laigs don't seem to understand  
+>| That when I says t'go ah means t'go.  
+>| They's's more like pegs. These laigs wuz once so grand  
+>| It means I'm through. I'm tellin' you, brother, A'm through.  
  
->|      Chorus
+>|      Chorus  
  
->| No more a that old gold ever comin' ma'way
->| It's cause ma feet's gown down flat on me
->| That's the because, why ah ain't got a dime t'day
->| Are you generous brother? It's a nice way t' be.
+>| No more a that old gold ever comin' ma'way  
+>| It's cause ma feet's gown down flat on me  
+>| That's the because, why ah ain't got a dime t'day  
+>| Are you generous brother? It's a nice way t' be.  
  
->| Yeh! Ma feet's flat, too, flat as boards, both uv'em is,
->| They's flat, flattern' a hat, no two eays 'bout that.
->| Ol' Uncle Sam dun turned me down, an' says
->| "Son, no! You can't go! You get no dough! You're flat!"
->| That's why a'm still in town; I guess maybe it is.
+>| Yeh! Ma feet's flat, too, flat as boards, both uv'em is,  
+>| They's flat, flattern' a hat, no two eays 'bout that.  
+>| Ol' Uncle Sam dun turned me down, an' says  
+>| "Son, no! You can't go! You get no dough! You're flat!"  
+>| That's why a'm still in town; I guess maybe it is.  
  
->|      Chorus
+>|      Chorus  
  
->| No more a'that ol' gold ever comin' ma'way,-
->| It's b'cause ma'feet's gone down flat on me;
->| That's the because - why I ain't got a dime t'day
->| Are you generous, brother? It's a nice way t' be.
+>| No more a'that ol' gold ever comin' ma'way,-  
+>| It's b'cause ma'feet's gone down flat on me;  
+>| That's the because - why I ain't got a dime t'day  
+>| Are you generous, brother? It's a nice way t' be.  
 
 # She was dishonest to the end... \
   but we liked her
@@ -975,30 +975,30 @@ Mrs. Moyer had more sense than most. I would remember her always for other thing
 
 # Rock Hounds Soliloguy ^[This page is crossed out.]
 
->| My needs are trivial;
->| I do not crave a crown,
->| Nor home high on a hill
->| Of store that flaunts the town.
->| Nor endless fields beyond
->| With trees of stately kind
->| On goodly roads around.
+>| My needs are trivial;  
+>| I do not crave a crown,  
+>| Nor home high on a hill  
+>| Of store that flaunts the town.  
+>| Nor endless fields beyond  
+>| With trees of stately kind  
+>| On goodly roads around.  
  
->| What pleases me the most
->| Is neither farms nor wealth,
->| Nor friends with whom to boast
->| About my failing health.
->| Give me some rocks to mine;
->| Tough roads you've heard about;
->| Fire opal I can find,
->| That'll knock their eye teeth out.
->| When I'm home safe and sound,
->| And after all have shown
->| I'll show them what I found.
+>| What pleases me the most  
+>| Is neither farms nor wealth,  
+>| Nor friends with whom to boast  
+>| About my failing health.  
+>| Give me some rocks to mine;  
+>| Tough roads you've heard about;  
+>| Fire opal I can find,  
+>| That'll knock their eye teeth out.  
+>| When I'm home safe and sound,  
+>| And after all have shown  
+>| I'll show them what I found.  
 
 # Perhaps No Kindness Is Ever Lost
 
->| Certainly the greatest thing in life is Kindness.
->| They called him Jesus of Nazareth
+>| Certainly the greatest thing in life is Kindness.  
+>| They called him Jesus of Nazareth  
 
 This so uncommon one, who long and long ago lived among and as one of the commonest folks; history has never recorded a greater authority on common every day living; no wiser teacher, or more successful doctor of minds and bodies; nor a better neighbor; nor a finer gentleman; nor one whose living has been more respected, or more misrepresented. He did liberate folks from themselves; taught them common sense by simple story, folk take, parable, advice. Ever since then folks have attributed to him much good, some evil, weird and stupid claims. Each worshiping faction strives to tear down the other, believing truly their concepts and interpretations the best (or the only) just and proper views and teachings. Yet all agree he was the best man who ever lived. Who can be as good? or nearly so good?
 
@@ -1006,93 +1006,93 @@ Well, since you've never done a better thing, write some verses about him. You c
 
 # My Grandpa's A Funny Guy
 
->| My grandpa always says he's goin' away.
->| When he gets mad at Bob and me.
->| "Dog take it." he will say, "I'm goin' away.
->| You bet I'm goin' away.
->| And when I go this time I'm goin' t'stay.
->| You kids is got t'be too much fur me.
->| A lot too much fur me," he'll say.
+>| My grandpa always says he's goin' away.  
+>| When he gets mad at Bob and me.  
+>| "Dog take it." he will say, "I'm goin' away.  
+>| You bet I'm goin' away.  
+>| And when I go this time I'm goin' t'stay.  
+>| You kids is got t'be too much fur me.  
+>| A lot too much fur me," he'll say.  
  
->| My grandpa's sure we're goin' t'raise the roof
->| When we start whoopin' up our Indian stuff.
->| "Tarnation!" he will say, "Jehosophat!
->| Why must you yell like that?
->| When ah's a boy I never made no noise.
->| You Injuns is too loud fur just two boys,
->| A lot too loud fur just two boys."
+>| My grandpa's sure we're goin' t'raise the roof  
+>| When we start whoopin' up our Indian stuff.  
+>| "Tarnation!" he will say, "Jehosophat!  
+>| Why must you yell like that?  
+>| When ah's a boy I never made no noise.  
+>| You Injuns is too loud fur just two boys,  
+>| A lot too loud fur just two boys."  
  
->| My grandpa's always been a funny guy,
->| For when he's mad he always winks his eye,
->| And when mom puts away our horn and drum
->| My grandpa brings 'em back and says, "By gum!
->| Our music lesson wasn't done."
->| He stops his book and listens to us boys
->| A lot too long to not like noise.
+>| My grandpa's always been a funny guy,  
+>| For when he's mad he always winks his eye,  
+>| And when mom puts away our horn and drum  
+>| My grandpa brings 'em back and says, "By gum!  
+>| Our music lesson wasn't done."  
+>| He stops his book and listens to us boys  
+>| A lot too long to not like noise.  
 
 # A Pome about A. Recreaut \
   and Unforgivable Wife
 
->|                      By - Ugo Igo
+>|                      By - Ugo Igo  
 
->| So like a halcyon dream that comes to end
->| Love that was ours has disappeared but fast;
->| What good that I accuse? Or you defend?
->| We should have known it was too good to last.
+>| So like a halcyon dream that comes to end  
+>| Love that was ours has disappeared but fast;  
+>| What good that I accuse? Or you defend?  
+>| We should have known it was too good to last.  
  
->| I drew you, deeply breathing, to my breast;
->| Without a word but more than words could say,
->| You loved me sweetly sighing as you pressed
->| Your face to mine and gave yourself to me.
->| You loved me sweetly sighing, held me close,
->| And gave your lovely self to me to love.
+>| I drew you, deeply breathing, to my breast;  
+>| Without a word but more than words could say,  
+>| You loved me sweetly sighing as you pressed  
+>| Your face to mine and gave yourself to me.  
+>| You loved me sweetly sighing, held me close,  
+>| And gave your lovely self to me to love.  
  
->| Then suddenly from out the shining blue,
->| Without much words, there wasn't much to say,
->| Your soul obsessed, you joined a Vega Crew;
->| You gave yourself to Vega, - and for pay;
->| To Vega then you gave yourself away; -
+>| Then suddenly from out the shining blue,  
+>| Without much words, there wasn't much to say,  
+>| Your soul obsessed, you joined a Vega Crew;  
+>| You gave yourself to Vega, - and for pay;  
+>| To Vega then you gave yourself away; -  
  
->| You wanted slack, and lunches in a box,
->| And rides at night with folks I didn't know; -
->| You think I'm dumb? I'm dumb as any fox, -
->| When you're from home where do you think I go?!
+>| You wanted slack, and lunches in a box,  
+>| And rides at night with folks I didn't know; -  
+>| You think I'm dumb? I'm dumb as any fox, -  
+>| When you're from home where do you think I go?!  
 
 # The Valley of the Sioux
 
->| Now dusk creeps on the hills,
->| These hills my childhood knew,
->| And teeming silence fills
->| The Valley of the Sioux.
+>| Now dusk creeps on the hills,  
+>| These hills my childhood knew,  
+>| And teeming silence fills  
+>| The Valley of the Sioux.  
  
->| The cottonwoods dream on
->| Down where the river still
->| Flows dark trembling pond pg 147
->| To foaming flume and mill.
+>| The cottonwoods dream on  
+>| Down where the river still  
+>| Flows dark trembling pond pg 147  
+>| To foaming flume and mill.  
  
->| From Magic pool and hall
->| Beneath the river's trees.
->| Now beckoning spirits call,
->| Rich - voiced in mysteries.
+>| From Magic pool and hall  
+>| Beneath the river's trees.  
+>| Now beckoning spirits call,  
+>| Rich - voiced in mysteries.  
  
->| Now from the village tower
->| Stern warming, but not stern,
->| The cerfew sounds the hour
->| And long lost years return.
+>| Now from the village tower  
+>| Stern warming, but not stern,  
+>| The cerfew sounds the hour  
+>| And long lost years return.  
  
->| Oh, Peaceful Valley Sioux,
->| We parted caring much;
->| The world I little knew,
->| But gauged your lightest touch.
+>| Oh, Peaceful Valley Sioux,  
+>| We parted caring much;  
+>| The world I little knew,  
+>| But gauged your lightest touch.  
  
->| Then I the gladdest one
->| Climbed these green hills of mine,
->| To stay the setting sun,
->| And read tomorrow's sign.
->| No speech can ever tell
->| No words can set it down
->| Of how a boy can feel
->| Who's been away too long.
+>| Then I the gladdest one  
+>| Climbed these green hills of mine,  
+>| To stay the setting sun,  
+>| And read tomorrow's sign.  
+>| No speech can ever tell  
+>| No words can set it down  
+>| Of how a boy can feel  
+>| Who's been away too long.  
 
 [Written on page 149 are these words only:]
 
@@ -1102,94 +1102,94 @@ Adam & Eve
 
 # Remembering
 
->| The morning summer breeze
->| Blew through my shirt and jeans,
->| As rising on my toes,
->| I pumped the heavy pump
->| To fill the wooden tank, -
->| And knew my strength, -and felt
->| A joy within my breast;
->| For it was good to live, -
->| And would be better still,
->| If that could ever be.
->| You don't forget such things
->| You live them countless times
->| And feel as you felt then.
->| That perky meadowlark.
->| The same one every spring,
->| He saw you to the gate,
->| And swang from post to post
->| To take you to your work.-
->| For your return he'd wait.
+>| The morning summer breeze  
+>| Blew through my shirt and jeans,  
+>| As rising on my toes,  
+>| I pumped the heavy pump  
+>| To fill the wooden tank, -  
+>| And knew my strength, -and felt  
+>| A joy within my breast;  
+>| For it was good to live, -  
+>| And would be better still,  
+>| If that could ever be.  
+>| You don't forget such things  
+>| You live them countless times  
+>| And feel as you felt then.  
+>| That perky meadowlark.  
+>| The same one every spring,  
+>| He saw you to the gate,  
+>| And swang from post to post  
+>| To take you to your work.-  
+>| For your return he'd wait.  
 
 # Late Conversation
 
->| Little Mikie Nelson
->| He's afraid of the dark;
->| Trembles! Sits up in his bed!
->| "What's that racket? Hark!"
+>| Little Mikie Nelson  
+>| He's afraid of the dark;  
+>| Trembles! Sits up in his bed!  
+>| "What's that racket? Hark!"  
  
->|      BUTCH
+>|      BUTCH  
  
->| "Just the wind a sighin'
->| In the trees, I said;
->| That's what I been trying'
->| T'get into your head."
+>| "Just the wind a sighin'  
+>| In the trees, I said;  
+>| That's what I been trying'  
+>| T'get into your head."  
  
->|      MIKIE
->| 
->|  "All the same there's something
->| Standin' there by you!"
+>|      MIKIE  
+>|   
+>|  "All the same there's something  
+>| Standin' there by you!"  
  
->|      BUTCH
+>|      BUTCH  
  
->| "You bin' waitin' all this time
->| T'see what it turns to?"
+>| "You bin' waitin' all this time  
+>| T'see what it turns to?"  
  
->| White as chalk is Mikie,
->| And he's getting cold,
->| Holds his breath and listens
->| Long as he can hold.
+>| White as chalk is Mikie,  
+>| And he's getting cold,  
+>| Holds his breath and listens  
+>| Long as he can hold.  
  
->|      MIKIE
+>|      MIKIE  
  
->| "Funny noise I'm hearin'!
->| Comin' through the door!"
+>| "Funny noise I'm hearin'!  
+>| Comin' through the door!"    
  
->|      BUTCH
+>|      BUTCH  
  
->| "That's a screech owl, Fraidy-Cat;
->| You've heard that before."
+>| "That's a screech owl, Fraidy-Cat;  
+>| You've heard that before."  
  
->|      MIKIE
+>|      MIKIE  
  
->| "Noise I'm hearin' ain't no owl,
->| Maybe it's a bear!"
+>| "Noise I'm hearin' ain't no owl,  
+>| Maybe it's a bear!"  
  
->|      BUTCH
+>|      BUTCH  
  
->| "Wind blows in the key hole;
->| There's no bear out there."
+>| "Wind blows in the key hole;  
+>| There's no bear out there."  
  
->|      MIKIE
+>|      MIKIE  
  
->| "Someone's lookin' in here!
->| What's that light, you spose?"
+>| "Someone's lookin' in here!  
+>| What's that light, you spose?"  
  
->|      BUTCH
+>|      BUTCH  
  
->| "Moon's come up; It's been here
->| Long time, - while you snoze.
+>| "Moon's come up; It's been here  
+>| Long time, - while you snoze.  
  
->| Nothin's doin' nothin', -
->| No bears miles around;
->| You do too much fussin'
->| Hearin' every sound.
+>| Nothin's doin' nothin', -  
+>| No bears miles around;  
+>| You do too much fussin'  
+>| Hearin' every sound.  
  
->| Wind 'l stop a' blowin';
->| It's just passin' by;
->| There's no eyes a' showin',
->| You ate too much pie."
+>| Wind 'l stop a' blowin';  
+>| It's just passin' by;  
+>| There's no eyes a' showin',  
+>| You ate too much pie."  
 
 # Unwanted Interest?
 
