@@ -1,0 +1,10 @@
+    <dc:title>The Slough</dc:title>
+	<dc:subtitle>Our Great Playground</dc:subtitle>
+	<dc:author>Marion Ransom Tone</dc:author>
+    <dc:creator opf:role="aut">Jon Nyman/Gini Norgard</dc:creator>
+    <dc:language>en</dc:language>
+	<dc:rights>opensource</dc:rights>
+    <dc:date opf:event="modification">2014-01-21</dc:date>
+	<dc:producer>Jon Nyman</dc:producer>
+	<dc:comments></dc:comments>
+    <meta content="1.11.1" name="pandoc.exe" />
