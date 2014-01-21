@@ -187,54 +187,54 @@ Winter of '22-'23 - started a sales agency in Seattle. Com. Club closed up all s
 
 1930 - We bought the home at 115 Av. B. We then had our offices in the Electric Bldg - 202-204-206-208. Our board consisted then of J. Ping, G.E. Harris, L.W. Allard, B.F. Tanner, Judge Pierson was counsel and W. W. Lindsey Auditor. Later we took on CW Dawson in place of Tanner. Our office force at the Bdw. Bldg.: 
 
-|     W. W. Lindsey       Auditor
-|     Walt Hurgraves      Accounts
-|     Dorothy Baker        "
-|     Miss Krieg           "      Short T.
-|     Miss Vivian Russell     Part time    "
+|     W. W. Lindsey       Auditor  
+|     Walt Hurgraves      Accounts  
+|     Dorothy Baker        "  
+|     Miss Krieg           "      Short T.  
+|     Miss Vivian Russell     Part time    "  
 
-|     D. D. Hoffman       Asst. Secty
-|     G. E. Harris             "
-|     L. W. Allard            Dir. & V.P.
-|     C.W.D.           " & Sales Mgr
+|     D. D. Hoffman       Asst. Secty  
+|     G. E. Harris             "  
+|     L. W. Allard            Dir. & V.P.  
+|     C.W.D.           " & Sales Mgr  
 
-| Our field collectors - Wm Juff
-|     Col. Sinclaire
+| Our field collectors - Wm Juff  
+|     Col. Sinclaire  
 
 Oweman^[May be transribed incorrectly.] and Mr. and Mrs. LF Colberg - Mg of Bldg & Hotel
 
-|     Judge Geo. W. Pierson   Counsel
-|     Brown Wiggenhorne & Davis/Counsel
-|     Chas. P Cotter       "
-|     Walter Hargraves
-|     M. Gan          Accounts & Geo. Conway
-|     B.F. Tanner         Mgr for S.D. Mitchell
-|     R. McMannis          " " S. D. (western)
-|     Simson & Pruitt     Office at Bozeman
-|     Murphy & Rimel       " " Missoula
-|     Claud Merrill            " " Great Falls
+|     Judge Geo. W. Pierson   Counsel  
+|     Brown Wiggenhorne & Davis/Counsel  
+|     Chas. P Cotter       "  
+|     Walter Hargraves  
+|     M. Gan          Accounts & Geo. Conway  
+|     B.F. Tanner         Mgr for S.D. Mitchell  
+|     R. McMannis          " " S. D. (western)  
+|     Simson & Pruitt     Office at Bozeman  
+|     Murphy & Rimel       " " Missoula  
+|     Claud Merrill            " " Great Falls  
 
-| We had over 300 men but not more than 65 full time at any one time. 
-| We had more than 3000 stockholders and bond holders.
+| We had over 300 men but not more than 65 full time at any one time.   
+| We had more than 3000 stockholders and bond holders.  
 
-| Some of our men whose names come to me now:
-|     Art Madsen
-|     Hess & his 3 men
-|     Jackson & crew  (in brackets: Musson, Long, Jackson from Wyo.)
-|     Johnie Long
-|     Geo Musson                Porter of Salt Lake
-|     Downey from S Dak         Leonard         "
-|     Severtson "               Patterson
-|     Segart   "                Young           "
-|     Talbert                   Cruder (bad actor)
-|     Scot Dauson & Roy         Flannigan (the rat)
-|     C. Johnson (the Great)
-|     Prickett                  Gainer S. Dak. (hard drinker)
-|     Barnes                    2 Tannahills
-|     Foutch & crew
-|     Clements &                Claude (Merril) & his partner
-|     Parkins of Salt Lake             (suicide)
-|     Walker "
+| Some of our men whose names come to me now:  
+|     Art Madsen  
+|     Hess & his 3 men  
+|     Jackson & crew  (in brackets: Musson, Long, Jackson from Wyo.)  
+|     Johnie Long  
+|     Geo Musson                Porter of Salt Lake  
+|     Downey from S Dak         Leonard         "  
+|     Severtson "               Patterson  
+|     Segart   "                Young           "  
+|     Talbert                   Cruder (bad actor)  
+|     Scot Dauson & Roy         Flannigan (the rat)  
+|     C. Johnson (the Great)  
+|     Prickett                  Gainer S. Dak. (hard drinker)  
+|     Barnes                    2 Tannahills  
+|     Foutch & crew  
+|     Clements &                Claude (Merril) & his partner  
+|     Parkins of Salt Lake             (suicide)  
+|     Walker "  
 
 At one time we had 58 full time salesmen and their sub-agents. Five offices, 3 paid attorneys.
 
@@ -324,18 +324,18 @@ It's something like your mother's brushing off my dandruff and straightening my 
 
 # The Fence Corner
 
->| Unpainted, plain, as drab as winter weeds     
->| Your weathered form stands here beside the road.    
->| Where faded sunflowers bend their weary heads    
->| And withered milkweeds through the year have stood.    
+>| Unpainted, plain, as drab as winter weeds       
+>| Your weathered form stands here beside the road.      
+>| Where faded sunflowers bend their weary heads      
+>| And withered milkweeds through the year have stood.      
  
->| How like the dried up landscape hereabout    
->| By wind and rain stripped bare to root to rock    
->| Those naked, greyblue arms on which you lean    
->| Apart of this for eons part you seem.    
+>| How like the dried up landscape hereabout      
+>| By wind and rain stripped bare to root to rock      
+>| Those naked, greyblue arms on which you lean      
+>| Apart of this for eons part you seem.      
  
->| Select and strong, a major sentinel you stand    
->| For stress and strain by double cable bound.    
+>| Select and strong, a major sentinel you stand      
+>| For stress and strain by double cable bound.      
 >| Tight set your beams, deep down your rides aground    
 >| For failure here down every line {had come    
 >|                                  {would come    
