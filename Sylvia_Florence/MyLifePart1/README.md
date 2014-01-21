@@ -1,10 +1,10 @@
-§ My Life Part 1: Sylvia Florence Ericson Tone
+# My Life Part 1: Sylvia Florence Ericson Tone
 
-§§§ Sylvia Florence Ericson Tone, Warren Lemey
+### Sylvia Florence Ericson Tone, Warren Lemey
 
-§§§§ November 30, 1988
+#### November 30, 1988
 
-§§ Description
+## Description
 
 This narration of her memories by Sylvia Florence Tone was recorded over a period of five days in Cherry Valley, California November 1988. - Warren Lemey
 
@@ -12,14 +12,14 @@ The life of Sylvia Florence Ericson Tone (March 11, 1894 - November 15, 1999) fr
 
 See <http://directancestors.org/Assets/html/ericson/flo_ericson.html>
 
-§§ [Archive.org](https://archive.org/details/SylviaFlorenceEricsonTone-MyLifePart1) Address
+## [Archive.org](https://archive.org/details/SylviaFlorenceEricsonTone-MyLifePart1) Address
 
 <https://archive.org/details/SylviaFlorenceEricsonTone-MyLifePart1>
 
-§§ Type
+## Type
 
 Audio
 
-§§ Keywords
+## Keywords
 
 autobiography; 1900s; montana; washington; utah; alaska
