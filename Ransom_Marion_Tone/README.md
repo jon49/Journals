@@ -1,4 +1,4 @@
-# Ransom Marion Tone
+# [Ransom Marion Tone](http://directancestors.org/Assets/html/tone/ransom_tone.html)
 
 Born: 24 May 1884  
 Canton, Lincoln, Dakota Territory
