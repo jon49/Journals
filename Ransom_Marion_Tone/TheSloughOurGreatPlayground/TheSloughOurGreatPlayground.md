@@ -1137,7 +1137,7 @@ Adam & Eve
 >| T'get into your head."  
  
 >|      MIKIE  
->|   
+
 >|  "All the same there's something  
 >| Standin' there by you!"  
  
