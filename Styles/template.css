@@ -9,6 +9,9 @@ body {
 	padding:2em;
 	border-radius: 1em;
 }
+img {
+  width: 450px;
+}
 a {
 	color: #888;
 	text-decoration: none;
