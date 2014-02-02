@@ -1,4 +1,4 @@
-# [Florence Tone - Our Letters Jan 1919 - Sept 1924](https://rawgithub.com/jon49/Journals/master/Sylvia_Florence/OurLetters/Text/OurLetters.html)
+# [Florence Tone - Our Letters Jan 1919 - Sept 1924](https://rawgithub.com/jon49/Journals/master/Sylvia_Florence/OurLetters/Text/index.html)
 
 ### Sylvia Florence Ericson Tone
 
@@ -13,6 +13,10 @@ Transcribed letters of Sylvia Florence Ericson Tone which she transcribed into a
 ## [Archive.org](https://archive.org/details/SylviaFlorenceEricsonTone-OurLetters) Address
 
 <https://archive.org/details/SylviaFlorenceEricsonTone-OurLetters>
+
+## HTML Preview
+
+<https://rawgithub.com/jon49/Journals/master/Sylvia_Florence/OurLetters/Text/index.html>
 
 ## Type
 
