@@ -1402,3 +1402,5 @@ Don't work too hard, honey boy. Better take the day off when you get this letter
 *"All things are one; the rock, the cloud, the tree, the man"*
 
 ###### *Sioux Indian belief.*
+
+

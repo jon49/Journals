@@ -17,10 +17,11 @@ perl -pe 's/_(.+?)_/\\underline{$1}/g' source.md | pandoc -o output.pdf
 ~~~
 perl -pe 's/_(.+?)_/\<u\>$1\<\/u\>/g' source.md | pandoc -S --epub-metadata=../metadata.xml --epub-stylesheet=../Styles/template.css --epub-cover-image=../Images/coverImage.jpg -o ../output.epub
 ~~~
+
 ##### To HTML
 
 ~~~
-perl -pe 's/_(.+?)_/\<u\>$1\<\/u\>/g' Text/OurLetters.md | pandoc -s -S --toc -c ../../Styles/template.css -o OurLetters.html
+cat file1 file2 | perl -pe 's/_(.+?)_/\<u\>$1\<\/u\>/g' | pandoc -s -S --toc -c ../../Styles/template.css -o OurLetters.html
 ~~~
 ### JPG Manipulation
 
